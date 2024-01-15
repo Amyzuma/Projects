@@ -1,2 +1,2 @@
-# Projects
+# Amyzuma
 My first repository.
